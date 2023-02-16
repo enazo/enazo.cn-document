@@ -1,6 +1,6 @@
-![绘谜](images/tail.gif)
 
-# 绘谜 enazo.cn 文档
+
+# <img src="images/tail.gif" alt="绘谜" style="width: 120px"> 绘谜 enazo.cn 文档
 
 三年前开始沉迷你画我猜、根据自己需求做了一个网页在线的你画我猜，维护了三年之后的现在，终于定下了「绘谜」这个项目名字
 
