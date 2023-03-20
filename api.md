@@ -14,7 +14,16 @@ https://enazo.cn/api/
  - token：需携带
 
 ### 示例
-获取所有词库为 `东方project` 的房间信息，使用 `token` 为 `touhou`
+获取所有房间信息列表
+```javascript
+fetch('https://enazo.cn/api/draw/rooms?token=touhou').then(r=>r.json()).then(data=>{
+	console.log(data.rooms); // 公开房间信息列表
+	console.log(data.onLineNum); // 在线用户数
+});
+```
+
+
+获取所有词库为 `东方project` 的房间信息列表，使用 `token` 为 `touhou`
 ```javascript
 fetch('https://enazo.cn/api/draw/rooms?token=touhou').then(r=>r.json()).then(data=>{
 
