@@ -73,3 +73,7 @@ fetch('https://enazo.cn/api/draw/rooms?token=touhou').then(r=>r.json()).then(dat
 成员：(ಥ_ಥ)、测试用户1
 ```
 
+
+## 用户统计信息
+
+`https://enazo.cn/api/social/member/g4upckk3w1d/stat?pretty`
