@@ -13,6 +13,13 @@ https://enazo.cn
 现在以 Live2D 形式在网站内游荡，触碰它会回应的哟~ 快试试吧
 
 
+## 新功能许愿
+https://docs.qq.com/sheet/DTVlsYm5rYmt6eXdW?tab=BB08J2
+
+## 更新记录
+2024-10-09 试试在这里做更新记录
+https://github.com/enazo/enazo.cn-document/wiki/%E6%9B%B4%E6%96%B0%E8%AE%B0%E5%BD%95
+
 ## 最近的功能更新
 
 ### ✨断线重连
