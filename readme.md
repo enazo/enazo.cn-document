@@ -20,6 +20,12 @@ https://docs.qq.com/sheet/DTVlsYm5rYmt6eXdW?tab=BB08J2
 2024-10-09 试试在这里做更新记录
 https://github.com/enazo/enazo.cn-document/wiki/%E6%9B%B4%E6%96%B0%E8%AE%B0%E5%BD%95
 
+## 玩转绘谜(enazo)指北
+[玩转绘谜(enazo)指北.md](玩转绘谜(enazo)指北.md)
+
+## 词库使用说明
+https://docs.qq.com/sheet/DWUhJUGhmV2tSVVN3?tab=p3ngus
+
 ## 最近的功能更新
 
 ### ✨断线重连
